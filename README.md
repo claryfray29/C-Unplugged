@@ -51,3 +51,6 @@
 Use the provided `Makefile` to compile the source code:
 ```bash
 make
+
+### To execute:
+./c_unplugged
