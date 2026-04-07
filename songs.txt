@@ -1,0 +1,11 @@
+Song    Duration    Artist
+song1   2:00    artist1
+song2   2:30    artist2
+song3   1:50    artist3
+song4   1:10    artist1
+song5   1:00    artist5
+song6   2:50    artist3
+song7   1:40    artist6
+song8   2:20    artist5
+song9   2:40    artist7
+song10  1:45    artist8
